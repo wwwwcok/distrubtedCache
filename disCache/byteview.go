@@ -1,4 +1,4 @@
-package distrubtedCache
+package disCache
 
 // A ByteView holds an immutable view of bytes.
 

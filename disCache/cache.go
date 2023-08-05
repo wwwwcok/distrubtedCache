@@ -1,7 +1,7 @@
-package distrubtedCache
+package disCache
 
 import (
-	"distrubtedCache/lru"
+	"distrubtedCache/disCache/lru"
 	"sync"
 )
 
